@@ -186,3 +186,12 @@ Shnaya Mehla
 ## License
 
 MIT. See `LICENSE`.
+
+Tool	Version
+Nextflow	26.10.4
+NCBI Datasets	18.40.0
+AMRFinderPlus	4.2.7
+mlst	2.35.0
+Kleborate	3.2.4
+QUAST	5.3.0
+Mash	2.3
