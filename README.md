@@ -195,3 +195,4 @@ mlst	2.35.0
 Kleborate	3.2.4
 QUAST	5.3.0
 Mash	2.3
+AMRFinderPlus database 2026-08-07.1.
