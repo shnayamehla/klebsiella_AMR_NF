@@ -1,1 +1,30 @@
+# Nextflow run files
+work/
+.nextflow/
+.nextflow.log*
+timeline*.html
+report*.html
+trace*.txt
 
+# Pipeline outputs (summaries are added on purpose later)
+results/
+
+# Downloaded genomes and archives (too large for GitHub)
+data/genomes/
+*.zip
+*.fna
+*.fasta
+*.fa
+
+# Keep the small test genomes
+!assets/test_data/*.fna
+!assets/test_data/*.fasta
+
+# Python
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
